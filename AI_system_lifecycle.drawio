@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T23:31:11.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hW5r5fA3DSVn8V_EHQcs" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T23:33:22.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VDEbXoiFURMSr4ePFPNd" version="21.7.5" type="github">
   <diagram name="第 1 页" id="T-YpjzNNBdXZqOawI-ND">
-    <mxGraphModel dx="2034" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2896" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
           <mxGeometry x="352" y="1441.5" width="713.48" height="148.5" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-86" value="&lt;ul&gt;&lt;li&gt;Monitoring model drifts: concept drift / data drift&lt;/li&gt;&lt;li&gt;Concept drift indicates that the definition or distribution of labels changes through time&lt;/li&gt;&lt;li&gt;Measures to encounter concept drift goes: 1. model retraining 2. confirmation testing 3. regression testing&lt;/li&gt;&lt;li&gt;Data drift refers to changes in the distribution of data features&lt;/li&gt;&lt;li&gt;Measures to encounter data drift goes: 1. review on data quality 2. data recovery 3. visualization of the data drift issue&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4. determining if data calibration is needed 5. model retraining 6. model&amp;nbsp;calibration or reconstruction&lt;br&gt;&lt;/li&gt;&lt;li&gt;Validate on new data to check for model drift&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1471.5" width="734.48" height="116.5" as="geometry" />
+          <mxGeometry x="333" y="1467.5" width="734.48" height="116.5" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-87" value="[&amp;nbsp;On-the-fly Testing ]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="365" y="1441.5" width="150" height="30" as="geometry" />
