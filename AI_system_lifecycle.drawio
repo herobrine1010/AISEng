@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T23:30:19.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="06B7rIjp1_KtA8lMFyDM" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T23:31:11.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hW5r5fA3DSVn8V_EHQcs" version="21.7.5" type="github">
   <diagram name="第 1 页" id="T-YpjzNNBdXZqOawI-ND">
-    <mxGraphModel dx="3240" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="498" y="130" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1vdsH9jNWgMkFRjSjvrM-2" value="[Review on Model Object ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1vdsH9jNWgMkFRjSjvrM-2" value="[ Review on Model Object ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="484" y="130" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-3" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ensure that model objectives serve business objectives&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Design acceptance criteria&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Design quality metrics&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="741" y="310" width="399" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1vdsH9jNWgMkFRjSjvrM-29" value="[Review on Framework Selection ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1vdsH9jNWgMkFRjSjvrM-29" value="[ Review on Framework Selection ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="746" y="310" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-30" value="&lt;ul&gt;&lt;li&gt;Framework selection / Distributed Computing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="741" y="370" width="399" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1vdsH9jNWgMkFRjSjvrM-34" value="[Review on Algorithm Selection ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1vdsH9jNWgMkFRjSjvrM-34" value="[ Review on Algorithm Selection ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="746" y="370" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-36" value="&lt;ul&gt;&lt;li&gt;Network structure: activation function, loss function, etc.&lt;/li&gt;&lt;li&gt;Hyper-parameters: initial weights, learning rate, batch size, etc.&lt;/li&gt;&lt;li&gt;Methods for selecting better hyper-parameters: tuning methods such as NAS, HPO, etc.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -141,7 +141,7 @@
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-56" value="Model Registering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="506" y="910" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1vdsH9jNWgMkFRjSjvrM-57" value="Model Storing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1vdsH9jNWgMkFRjSjvrM-57" value="Model Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="910" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-58" value="Model Releasing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
