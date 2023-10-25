@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T23:33:22.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VDEbXoiFURMSr4ePFPNd" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T05:40:27.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dVH3eLX5ZX1r0uLVhynf" version="21.7.5" type="github">
   <diagram name="第 1 页" id="T-YpjzNNBdXZqOawI-ND">
-    <mxGraphModel dx="2896" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,8 +147,10 @@
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-58" value="Model Releasing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="796" y="910" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1vdsH9jNWgMkFRjSjvrM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1vdsH9jNWgMkFRjSjvrM-63" target="1vdsH9jNWgMkFRjSjvrM-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1vdsH9jNWgMkFRjSjvrM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="1vdsH9jNWgMkFRjSjvrM-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="1340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="1000" width="770" height="340" as="geometry" />
@@ -207,34 +209,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1370" width="770" height="300" as="geometry" />
+          <mxGeometry x="319" y="1370" width="770" height="300" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-82" value="Model Monitoring" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="627" y="1370" width="154" height="30" as="geometry" />
+          <mxGeometry x="631" y="1370" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-83" value="Setting up of Model Monitoring Points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.48" y="1400" width="220" height="30" as="geometry" />
+          <mxGeometry x="451.48" y="1400" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-84" value="Determining if adjustments are needed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="746.25" y="1400" width="231.23" height="30" as="geometry" />
+          <mxGeometry x="750.25" y="1400" width="231.23" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="352" y="1441.5" width="713.48" height="148.5" as="geometry" />
+          <mxGeometry x="356" y="1441.5" width="713.48" height="148.5" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-86" value="&lt;ul&gt;&lt;li&gt;Monitoring model drifts: concept drift / data drift&lt;/li&gt;&lt;li&gt;Concept drift indicates that the definition or distribution of labels changes through time&lt;/li&gt;&lt;li&gt;Measures to encounter concept drift goes: 1. model retraining 2. confirmation testing 3. regression testing&lt;/li&gt;&lt;li&gt;Data drift refers to changes in the distribution of data features&lt;/li&gt;&lt;li&gt;Measures to encounter data drift goes: 1. review on data quality 2. data recovery 3. visualization of the data drift issue&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4. determining if data calibration is needed 5. model retraining 6. model&amp;nbsp;calibration or reconstruction&lt;br&gt;&lt;/li&gt;&lt;li&gt;Validate on new data to check for model drift&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1467.5" width="734.48" height="116.5" as="geometry" />
+          <mxGeometry x="337" y="1467.5" width="734.48" height="116.5" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-87" value="[&amp;nbsp;On-the-fly Testing ]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="365" y="1441.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="369" y="1441.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="351.76" y="1600" width="713.48" height="50" as="geometry" />
+          <mxGeometry x="355.76" y="1600" width="713.48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-99" value="&lt;ul&gt;&lt;li&gt;Incorporate&amp;nbsp;domain knowledge and perform adjustment&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332.76" y="1626" width="734.48" height="20" as="geometry" />
+          <mxGeometry x="336.76" y="1626" width="734.48" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-100" value="[ Testing during Maintenance]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="364.76" y="1600" width="242.72" height="30" as="geometry" />
+          <mxGeometry x="368.76" y="1600" width="242.72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1vdsH9jNWgMkFRjSjvrM-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="471.74" y="1724" width="447.72" height="70" as="geometry" />
