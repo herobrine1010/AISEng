@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:09:18.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.1.5" etag="kei-n05bTdoSvnVObb0_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T13:57:04.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="c8WRk4-uci1l-9USiQnn" version="22.1.5" type="github">
   <diagram name="第 1 页" id="kjWoDe90movP3GVGkAOm">
-    <mxGraphModel>
+    <mxGraphModel dx="804" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fn_SYdDXyTarmtpHNBiJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730.0000000000002" y="117.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="35" width="410" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.9999999999998" y="96" as="sourcePoint" />
+            <mxPoint x="520.0000000000002" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585.0000000000002" y="116" as="sourcePoint" />
+            <mxPoint x="585.0000000000002" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.0000000000002" y="163" as="sourcePoint" />
+            <mxPoint x="439.9999999999998" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-6" value="Model Generation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="38" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="117.5" as="sourcePoint" />
+            <mxPoint x="920" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.9999999999998" y="143" as="sourcePoint" />
+            <mxPoint x="374.9999999999998" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fn_SYdDXyTarmtpHNBiJ-24" target="Fn_SYdDXyTarmtpHNBiJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-24" value="Data Processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="97.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-26" value="Model Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="76" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-28" value="Model Operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="97.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-30" value="Model Tuning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="143" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-31" value="Model Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="76" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-32" value="Model Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="143" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn_SYdDXyTarmtpHNBiJ-33" value="Model Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="97.5" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
